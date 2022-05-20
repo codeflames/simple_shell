@@ -77,5 +77,5 @@ Brief description of every file in this repository. Subject to change.
 ---
 [Yereka Ueh-kabari](https://github.com/codeflames)
 -
-[Smart Chidi Oparuogo]()
+[Smart Chidi Oparuogo](https://github.com/smartcode108)
 -
